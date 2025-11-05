@@ -38,4 +38,9 @@ function App() {
 
 export default App
 
+// video 6 :virtual DOM ,fiber and reconcillation
+// documentation -react fiber github(acdlite merge pull request)
+// key features of react fiber
+// what is reconcilaition- the algorithm react uses to differentiate on tree with another to determine
+//which parts to be changed.
 
